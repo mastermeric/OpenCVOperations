@@ -1,4 +1,4 @@
-# OpenCVOperations
+# OpenCVOperations Face detection, OCR, etc..
 Various OpenCV Operations in Java such as face detection, OCR (Optic Character Recognition) etc..
 
 Don't forget to create your own "images" "data" folders to store related files. All files already exist in this repository.
